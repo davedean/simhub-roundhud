@@ -12,3 +12,6 @@ Features:
 - temps, pit limiter, headlights, abs, tc
 - tc / bb / map / abs settings
 
+## CHANGELOG
+
+2026-01-17 - TC2 now shows in iRacing
